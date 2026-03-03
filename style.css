@@ -1,6 +1,3 @@
-selector {
-    property: value;
-}
 body {
     font-family: Arial, sans-serif;
     color: #333;
@@ -50,7 +47,7 @@ footer {
 p {
     font-size: 1.1em;
 }
-}a {
+a {
     color: #4CAF50;
     text-decoration: none;
 }
@@ -61,7 +58,7 @@ img {
     border: 5px solid #4CAF50;
     border-radius: 10px;
 }
-main a[href^"mailto:"] {
+main a[href^="mailto:"] {
     color: #ff5722;
     font-weight: bold;
 }
